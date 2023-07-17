@@ -1,0 +1,12 @@
+E:\FantasyOfSango\FantasyOfSango_Moba_Server\SangoLog\bin\Debug\net7.0\SangoLog.deps.json
+E:\FantasyOfSango\FantasyOfSango_Moba_Server\SangoLog\bin\Debug\net7.0\SangoLog.dll
+E:\FantasyOfSango\FantasyOfSango_Moba_Server\SangoLog\bin\Debug\net7.0\SangoLog.pdb
+E:\FantasyOfSango\FantasyOfSango_Moba_Server\SangoLog\obj\Debug\net7.0\SangoLog.csproj.AssemblyReference.cache
+E:\FantasyOfSango\FantasyOfSango_Moba_Server\SangoLog\obj\Debug\net7.0\SangoLog.GeneratedMSBuildEditorConfig.editorconfig
+E:\FantasyOfSango\FantasyOfSango_Moba_Server\SangoLog\obj\Debug\net7.0\SangoLog.AssemblyInfoInputs.cache
+E:\FantasyOfSango\FantasyOfSango_Moba_Server\SangoLog\obj\Debug\net7.0\SangoLog.AssemblyInfo.cs
+E:\FantasyOfSango\FantasyOfSango_Moba_Server\SangoLog\obj\Debug\net7.0\SangoLog.csproj.CoreCompileInputs.cache
+E:\FantasyOfSango\FantasyOfSango_Moba_Server\SangoLog\obj\Debug\net7.0\SangoLog.dll
+E:\FantasyOfSango\FantasyOfSango_Moba_Server\SangoLog\obj\Debug\net7.0\refint\SangoLog.dll
+E:\FantasyOfSango\FantasyOfSango_Moba_Server\SangoLog\obj\Debug\net7.0\SangoLog.pdb
+E:\FantasyOfSango\FantasyOfSango_Moba_Server\SangoLog\obj\Debug\net7.0\ref\SangoLog.dll

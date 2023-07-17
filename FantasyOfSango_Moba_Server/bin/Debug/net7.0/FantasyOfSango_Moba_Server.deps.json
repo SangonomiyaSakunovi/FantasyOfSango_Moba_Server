@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "FantasyOfSango_Moba_Server/1.0.0": {
+        "dependencies": {
+          "SangoLog": "1.0.0"
+        },
+        "runtime": {
+          "FantasyOfSango_Moba_Server.dll": {}
+        }
+      },
+      "SangoLog/1.0.0": {
+        "runtime": {
+          "SangoLog.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FantasyOfSango_Moba_Server/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SangoLog/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
