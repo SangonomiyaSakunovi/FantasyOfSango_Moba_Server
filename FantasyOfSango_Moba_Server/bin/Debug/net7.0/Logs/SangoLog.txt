@@ -1,1 +1,2 @@
-[LogDone]# 02:31:13--706 ThreadID:1 >> ServerRoot Init Done.
+[LogDone]# 02:15:44--475 ThreadID:1 >> NetService Init Done.
+[LogDone]# 02:15:44--483 ThreadID:1 >> ServerRoot Init Done.

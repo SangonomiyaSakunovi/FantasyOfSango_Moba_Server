@@ -16,3 +16,8 @@ E:\FantasyOfSango\FantasyOfSango_Moba_Server\FantasyOfSango_Moba_Server\obj\Debu
 E:\FantasyOfSango\FantasyOfSango_Moba_Server\FantasyOfSango_Moba_Server\obj\Debug\net7.0\FantasyOfSango_Moba_Server.pdb
 E:\FantasyOfSango\FantasyOfSango_Moba_Server\FantasyOfSango_Moba_Server\obj\Debug\net7.0\FantasyOfSango_Moba_Server.genruntimeconfig.cache
 E:\FantasyOfSango\FantasyOfSango_Moba_Server\FantasyOfSango_Moba_Server\obj\Debug\net7.0\ref\FantasyOfSango_Moba_Server.dll
+E:\FantasyOfSango\FantasyOfSango_Moba_Server\FantasyOfSango_Moba_Server\bin\Debug\net7.0\Kcp.dll
+E:\FantasyOfSango\FantasyOfSango_Moba_Server\FantasyOfSango_Moba_Server\bin\Debug\net7.0\SangoKCPNet.dll
+E:\FantasyOfSango\FantasyOfSango_Moba_Server\FantasyOfSango_Moba_Server\bin\Debug\net7.0\SangoKCPNet.pdb
+E:\FantasyOfSango\FantasyOfSango_Moba_Server\FantasyOfSango_Moba_Server\bin\Debug\net7.0\protobuf-net.dll
+E:\FantasyOfSango\FantasyOfSango_Moba_Server\FantasyOfSango_Moba_Server\bin\Debug\net7.0\protobuf-net.Core.dll

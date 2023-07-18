@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "CLdHWJMJhlpkPdE1aiVQSLGtqqsJYVqZXuypZyxtGYAr1VRzz2WoLjBQ8jGCkFYk9z5Q/uBHuD5qMrqDx+SNwA==",
+  "dgSpecHash": "q2yKMnkPtP9lOm2ak/53lOqF0fbpsuLNebJ6VASgWr5BgMoOvmYX6KxVPgj04WvZXd2e38jmh2J1L5w6F3xvNw==",
   "success": true,
   "projectFilePath": "E:\\FantasyOfSango\\FantasyOfSango_Moba_Server\\FantasyOfSango_Moba_Server\\FantasyOfSango_Moba_Server.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\16022\\.nuget\\packages\\kcp\\2.5.2\\kcp.2.5.2.nupkg.sha512",
+    "C:\\Users\\16022\\.nuget\\packages\\protobuf-net\\3.2.26\\protobuf-net.3.2.26.nupkg.sha512",
+    "C:\\Users\\16022\\.nuget\\packages\\protobuf-net.core\\3.2.26\\protobuf-net.core.3.2.26.nupkg.sha512",
+    "C:\\Users\\16022\\.nuget\\packages\\system.collections.immutable\\7.0.0\\system.collections.immutable.7.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

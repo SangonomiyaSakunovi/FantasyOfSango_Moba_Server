@@ -12,6 +12,11 @@
   </ItemGroup>
 
   <ItemGroup>
+    <PackageReference Include="protobuf-net" Version="3.2.26" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SangoKCPNet\SangoKCPNet.csproj" />
     <ProjectReference Include="..\SangoLog\SangoLog.csproj" />
   </ItemGroup>
 

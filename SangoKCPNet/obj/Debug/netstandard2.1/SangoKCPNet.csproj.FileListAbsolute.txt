@@ -1,0 +1,10 @@
+E:\FantasyOfSango\FantasyOfSango_Moba_Server\SangoKCPNet\bin\Debug\netstandard2.1\SangoKCPNet.deps.json
+E:\FantasyOfSango\FantasyOfSango_Moba_Server\SangoKCPNet\bin\Debug\netstandard2.1\SangoKCPNet.dll
+E:\FantasyOfSango\FantasyOfSango_Moba_Server\SangoKCPNet\bin\Debug\netstandard2.1\SangoKCPNet.pdb
+E:\FantasyOfSango\FantasyOfSango_Moba_Server\SangoKCPNet\obj\Debug\netstandard2.1\SangoKCPNet.csproj.AssemblyReference.cache
+E:\FantasyOfSango\FantasyOfSango_Moba_Server\SangoKCPNet\obj\Debug\netstandard2.1\SangoKCPNet.GeneratedMSBuildEditorConfig.editorconfig
+E:\FantasyOfSango\FantasyOfSango_Moba_Server\SangoKCPNet\obj\Debug\netstandard2.1\SangoKCPNet.AssemblyInfoInputs.cache
+E:\FantasyOfSango\FantasyOfSango_Moba_Server\SangoKCPNet\obj\Debug\netstandard2.1\SangoKCPNet.AssemblyInfo.cs
+E:\FantasyOfSango\FantasyOfSango_Moba_Server\SangoKCPNet\obj\Debug\netstandard2.1\SangoKCPNet.csproj.CoreCompileInputs.cache
+E:\FantasyOfSango\FantasyOfSango_Moba_Server\SangoKCPNet\obj\Debug\netstandard2.1\SangoKCPNet.dll
+E:\FantasyOfSango\FantasyOfSango_Moba_Server\SangoKCPNet\obj\Debug\netstandard2.1\SangoKCPNet.pdb
